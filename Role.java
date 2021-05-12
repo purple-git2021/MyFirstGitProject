@@ -1,5 +1,5 @@
 package com;
-
+//增加注释
 public class Role {
    IAttackStrategy  weapon;
    String name;
